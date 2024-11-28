@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Kilimanjaro",
+    "X": -3.0674,
+    "Y": 37.3556,
+    "Description": "Mount Kilimanjaro is the highest mountain in Africa, located in Tanzania.",
+    "Peak": 5895.000
+  },
+  {
+    "Name": "Matterhorn",
+    "X": 45.9763,
+    "Y": 7.6586,
+    "Description": "Matterhorn is a mountain of the Alps, straddling the border between Switzerland and Italy.",
+    "Peak": 4478.000
+  },
+  {
+    "Name": "Aconcagua",
+    "X": -32.6532,
+    "Y": -70.0109,
+    "Description": "Aconcagua is the highest peak in both the Western Hemisphere and the Southern Hemisphere, located in Argentina.",
+    "Peak": 6962.000
+  },
+  {
+    "Name": "Fuji",
+    "X": 35.3606,
+    "Y": 138.7274,
+    "Description": "Mount Fuji is an active stratovolcano and the highest mountain in Japan.",
+    "Peak": 3776.000
+  },
+  {
+    "Name": "Elbrus",
+    "X": 43.349722,
+    "Y": 42.443611,
+    "Description": "Mount Elbrus is the highest mountain in Europe, located in the Caucasus Mountains of Russia.",
+    "Peak": 5642.000
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Amazon",
+    "X": -3.465303,
+    "Y": -62.215901,
+    "Description": "The Amazon River is the largest river by discharge of water in the world, flowing through South America.",
+    "FlowSpeed": 220.500,
+    "Length": 7052.000
+  },
+  {
+    "Name": "Nile",
+    "X": 30.5852,
+    "Y": 32.2674,
+    "Description": "The Nile River is the longest river in the world, flowing through northeastern Africa.",
+    "FlowSpeed": 250.000,
+    "Length": 6650.000
+  },
+  {
+    "Name": "Yangtze",
+    "X": 31.230416,
+    "Y": 121.473701,
+    "Description": "The Yangtze River is the longest river in Asia and flows entirely within China.",
+    "FlowSpeed": 115.600,
+    "Length": 6300.000
+  },
+  {
+    "Name": "Mississippi",
+    "X": 37.0902,
+    "Y": -95.7129,
+    "Description": "The Mississippi River is the second-longest river in North America, flowing through the United States.",
+    "FlowSpeed": 165.800,
+    "Length": 3730.000
+  },
+  {
+    "Name": "Mekong",
+    "X": 12.565679,
+    "Y": 104.990963,
+    "Description": "The Mekong River flows through Southeast Asia, providing vital resources for the region's countries.",
+    "FlowSpeed": 150.000,
+    "Length": 4350.000
+  }
+]
